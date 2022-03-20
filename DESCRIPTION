@@ -6,4 +6,5 @@ maintainer: Aldo Cambronero Ureña <cambroneroaldo03@gmail.com>
 title: Implementación computacional de funciones trascendentes.
 description: Implementación computacional de funciones trascendentes, 
 desarrolladas mediante aproximaciones numericas.
+categories: package
 depends: octave (>= 4.0.0)
