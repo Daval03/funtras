@@ -7,3 +7,5 @@
 #
 #     https://octave.org/doc/latest/Creating-Packages.html
 #
+
+all:
