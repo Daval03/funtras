@@ -7,8 +7,3 @@
 #
 #     https://octave.org/doc/latest/Creating-Packages.html
 #
-
-all:
-	$(MKOCTFILE)       oct_demo.cc
-	$(MKOCTFILE) --mex mex_demo.c
-	$(MKOCTFILE)       fortran_demo.cc fortran_my_ddot.f
